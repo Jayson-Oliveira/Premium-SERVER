@@ -1,0 +1,2 @@
+# Premium-SERVER
+GLOBAL 10 / 12.40
